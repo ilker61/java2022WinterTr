@@ -22,5 +22,8 @@ public class C04_WrapperClass {
         // sayi3 wrapper Class olan Double class'ini kullandigindan
         // sayi3. dedigimizde bircok method gelir
 
+
+
+
     }
 }

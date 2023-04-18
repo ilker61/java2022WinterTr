@@ -9,7 +9,7 @@ public class C04_Ternary {
     // bir Ternary olusturalim
     public static void main(String[] args) {
 
-    int sayi=110;
+    int sayi=10;
 
         // Asagidaki ternary de iki farkli data turunde (integer ve String) sonuc var
         // Bu nedenle bunu bir veriableye atayamayiz.

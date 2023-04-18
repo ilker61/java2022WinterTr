@@ -17,6 +17,8 @@ public class C02_Contains {
             System.out.println("Email adresiniz kaydoldu");
         } else {
             System.out.println("lutfen yaziyi kontrol edin");
+
+
         }
     }
 }
